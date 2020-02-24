@@ -1,3 +1,3 @@
 first_number = 1
 second_number = 2
-puts first_number + second_number
+puts 1 + 2
